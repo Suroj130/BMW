@@ -6,9 +6,9 @@ import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
-from BrandrdXMusic.utils.formatters import time_to_seconds
+from AnonXMusic.utils.formatters import time_to_seconds
 import aiohttp
-from BrandrdXMusic import LOGGER
+from AnonXMusic import LOGGER
 
 YOUR_API_URL = None
 FALLBACK_API_URL = "https://shrutibots.site"
